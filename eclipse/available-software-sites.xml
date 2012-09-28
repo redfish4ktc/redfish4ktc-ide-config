@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bookmarks>
-   <site url="http://jadclipse.sf.net/update" selected="true" name="Jadclipse"/>
    <site url="http://java.decompiler.free.fr/jd-eclipse/update" selected="true" name="JD-Eclipse"/>
    <site url="http://moreunit.sourceforge.net/org.moreunit.updatesite/" selected="true" name="MoreUnit"/>
-   <site url="http://update.mousefeed.com" selected="true" name="MouseFeed"/>
+   <site url="http://www.rowlo.de/mousefeedfork/updatesite" selected="true" name="MouseFeedFork"/>
    <site url="http://subclipse.tigris.org/update_1.8.x" selected="true" name="Subclipse 1.8.x (svn 1.7.x)"/>
    <site url="http://pluginbox.sourceforge.net" selected="true" name="System Explorer"/>
 </bookmarks>

@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+org.moreunit.junit_path=
+org.moreunit.prefixes=
+org.moreunit.test_methodType=testMethodTypeNoPrefix
+org.moreunit.test_type=junit4

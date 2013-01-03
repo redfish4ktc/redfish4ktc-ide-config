@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bookmarks>
+   <site url="http://update.eclemma.org/" selected="true" name="eclemma"/>
    <site url="http://infinitest.github.com" selected="true" name="Infinitest"/>
-   <site url="http://java.decompiler.free.fr/jd-eclipse/update" selected="true" name="JD-Eclipse"/>
+   <site url="http://java.decompiler.free.fr/jd-eclipse/update" selected="false" name="JD-Eclipse"/>
    <site url="http://mchr3k-eclipse.appspot.com/" selected="true" name="jdeclipse extended"/>
    <site url="http://moreunit.sourceforge.net/org.moreunit.updatesite/" selected="true" name="MoreUnit"/>
    <site url="http://www.rowlo.de/mousefeedfork/updatesite" selected="true" name="MouseFeedFork"/>
